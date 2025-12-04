@@ -1,7 +1,7 @@
 dbt_learn_repos:
   outputs:
     dev:
-      account: GXVVTMJ-VPB03868
+      account: PDSKTIH-PB57994
       database: DBT_PRACTICE
       password: Snowflake@12345
       role: Accountadmin
